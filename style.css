@@ -1,0 +1,123 @@
+ /* ceci est un texte en css */
+body{
+    background-color: rgb(167, 165, 165);
+}
+
+h1{
+    color: rgb(214, 49, 49);
+    font-size: 40px;
+    text-align: center;
+}
+h2{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+h3{
+    color: black;
+    font-size: 24px;
+    text-align: left;
+}
+
+a, a:visited{
+    text-decoration: none;
+}
+p, a{
+    text-align: left;
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 7%;
+    margin-right: 7%;
+    letter-spacing: 1.8px;
+    line-height: 28px;
+}
+
+/* Introduction */
+.introduction{
+    background-color: white;
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5%;
+    display:  block;
+    text-align: center;
+    border-radius: 12px;
+}
+.introduction button{
+    background-color: rgb(214, 49, 49);
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 24px 54px;
+    border-radius: 12px;
+    border: none;
+}
+.introduction img{
+    margin-top: 2%;
+    border-radius: 100%;
+    border: solid 8px grey;
+}
+.introduction a, .introduction a:visited{
+    color: white;
+}
+.introduction button:hover{
+    background-color: black;
+}
+
+/* Reseaux sociaux */
+.resaux-sociaux{
+    background-color: white;
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2%;
+    display:  block;
+    text-align: center;
+    border-radius: 12px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.resaux-sociaux li{
+    display:inline;  
+}
+.resaux-sociaux a, .resaux-sociaux a:visited{
+    text-decoration: none;
+    color: grey;
+}
+.resaux-sociaux i{
+    text-align: center;
+    font-size: 300%;
+    padding: 8%;
+    color: grey;
+}
+
+/* favorites movies */
+.favorites-movies{
+    background-color: white;
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto   ;
+    margin-top: 2%;
+    display: block;
+    text-align: left;
+    border-radius: 12px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.favorites-movies img{
+    margin: 0% 5% 3% 3%;
+    margin-top: auto;
+    margin-bottom: auto;
+    float: left;
+}
+.favorites-movies article
+{
+    padding-top: 3%;
+    padding-bottom: 10%;
+}
+.je-suis-un-film{
+    display: inline-block;
+}
