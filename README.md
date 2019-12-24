@@ -21,4 +21,4 @@ The project is officially finished
 ## Validations
 
 This webpage is W3C and lighthouse validated
-![lighthouse validation](https://github.com/TimothyTedaldi/tim-berners-lee/image/lightousevalidated.png "lighthouse validation")
+![lighthouse validation](image/lightousevalidated.PNG "lighthouse validation")
