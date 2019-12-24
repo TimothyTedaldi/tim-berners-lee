@@ -17,3 +17,8 @@ This repository contains the ressources to build the Website ("https://timothyte
 ## Progression so far
 
 The project is officially finished
+
+## Validations
+
+This webpage is W3C and lighthouse validated
+![alt text](https://github.com/adam-p/TimothyTedaldi/tim-berners-lee/image/lightousevalidated.png "lighthouse validation")
