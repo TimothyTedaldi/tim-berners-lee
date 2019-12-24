@@ -6,6 +6,8 @@ This repository contains the ressources to build the Website ("https://timothyte
 
 ## How was my time spent ?
 
+### Time spent during the course of the day(23/12/0/2019)
+
 | Hour | Description |
 |-------:| -----------:|
 |'9h-10h30'| Basic Html of the webpage, image file was add too |
